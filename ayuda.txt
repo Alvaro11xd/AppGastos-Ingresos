@@ -1,0 +1,3 @@
+# Libreria para graficos
+# Victory React
+npm install victory
